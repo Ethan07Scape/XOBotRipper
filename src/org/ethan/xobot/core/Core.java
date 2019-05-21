@@ -12,12 +12,14 @@ public class Core {
 
     /**
      * Use any registered username & password
-     * <p>
+     *
      * Select your output directory & handler
-     * <p>
+     *
      * Run & let it do rest...
      *
-     * MAKE SURE ACCOUNT HAS SCRIPTS TO RIP BEFORE YOU RUN, DUMBASSES.
+     * MAKE SURE ACCOUNT HAS SCRIPTS TO RIP BEFORE YOU RUN, DUMBASSES...
+     *
+     * IF YOU WANT TO RIP VIP SCRIPTS/SERVERS YOU NEED TO BE VIP...
      */
     private final String username = "";
     private final String password = "";
